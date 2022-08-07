@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ez4yxz
 - 👀 I’m interested in coding, sleeping 
 - 🌱 I’m currently learning unity, html
-- 💞️ I’m looking to collaborate on A1M project 
+- 💞️ I’m looking to collaborate on A1M project and other FPS game projects
 - 📫 How to reach me ---  kimyxz@yeah.net
 
 <!---
